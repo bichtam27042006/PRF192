@@ -31,7 +31,7 @@ int main(){
 			quy = 4;
 			break;
 		default:
-			printf("Nhap sai");
+			printf("Nhap sai!");
 			return 0;
 	} 
 	printf("Thang %d thuoc quy %d",thang, quy);
