@@ -1,0 +1,13 @@
+4
+1
+Nam Tu
+10.0
+2
+Tien Dat 
+20.0
+3
+Van Hung 
+50.0
+4
+Bich Tam 
+100.0
